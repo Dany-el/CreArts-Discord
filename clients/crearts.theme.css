@@ -163,10 +163,10 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ⭕ Wide Square */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/square.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/square.css"); /**/
 
 /* ⭕ Wide Round */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/round.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/round.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.2 Shape                ║ Slim                            ║ */
@@ -204,7 +204,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/default.css"); /**/
 
 /* ⭕ Combined */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/combined.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/combined.css"); /**/
 
 /* ⭕ Divided */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/divided.css"); /**/
@@ -217,7 +217,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Default */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/default.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/default.css"); /**/
 
 /* ⭕ Buttons */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css"); /**/
@@ -227,7 +227,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Default */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/default.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/default.css"); /**/
 
 /* ⭕ Buttons */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/buttons.css"); /**/
