@@ -61,7 +61,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Community Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/community.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/community.css"); /**/
 
 /* ⭕ Ruby Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/ruby.css"); /**/
@@ -97,7 +97,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/charcoal.css"); /**/
 
 /* ⭕ Milkshake Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/milkshake.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/milkshake.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.1 Palette              ║ Community                       ║ */
@@ -166,14 +166,14 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/square.css"); /**/
 
 /* ⭕ Wide Round */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/round.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/round.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.2 Shape                ║ Slim                            ║ */
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Slim Squircle */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/squircle.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/squircle.css"); /**/
 
 /* ⭕ Slim Square */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/square.css"); /**/
