@@ -217,10 +217,10 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Default */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/default.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/default.css"); /**/
 
 /* ⭕ Buttons */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.3 Alignment            ║ Bottom                          ║ */
